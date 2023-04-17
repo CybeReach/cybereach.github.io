@@ -1,11 +1,27 @@
 ---
 layout: archive
-title: "Schedule a meeting"
+title: "Contact Details"
 permalink: /contact/
 author_profile: true
 ---
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/ramagururadhakrishnan" style="min-width:230px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+
+<br/>
+
+<b>Faculty Contact:</b>
+
+<p>
+<b>Mr. Ramaguru Radhakrishnan </b><br/>
+Mentor and Faculty Coordinator <br/>
++91 86670 31693 <br/>
+r_ramaguru[at]cb[dot]amrita[dot]edu</p>
+
+<b>Student Contact: </b>
+
+<p> <b>Ms. Roshni V</b> <br/>
+Chief-Editor <br/>
++91 95147 12939 <br/>
+cb[dot]en[dot]u4cys21061[at]cb[dot]students[dot]amrita[dot]edu
+<br/> <br/>
+
+
